@@ -12,5 +12,5 @@ def list_dwarves(array)
 
   end
   # Print a numbered list of each element
-  p array
+  p list_dwarves
 end
